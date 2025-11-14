@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-# ROMA
 ## ProjectZ
 ## R2-W3 ![Static Badge](https://img.shields.io/badge/Version-0.2-white)
 
@@ -10,5 +8,3 @@ Built with ROMA, Sentient's Recursive Open Meta-Agent framework. (learn more abo
 # clone repo here
 ```bash
 git clone https://github.com/001grindpa/ROMA.git
-=======
->>>>>>> 709b444 (updating local app)
